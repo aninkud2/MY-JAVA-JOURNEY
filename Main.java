@@ -159,8 +159,3 @@ System.out.println("Current score: " + secondaryStudent.getScore());
 
 
 
-git init
-git add .
-git commit -m "first commit"
-git remote add origin https://github.com/aninkud2/MY-JAVA-JOURNEY.git
-git push -u origin main
